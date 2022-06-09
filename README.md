@@ -19,8 +19,8 @@ I like programming, I deal mainly with ***front-end*** (vanilla JS, React, TypeS
 
 ## Education
 
-`2014 – 2018`: Střední průmyslová škola Loket (Informační technologie - Informatika v ekonomice)
+`2014 – 2018`: Secondary Industrial School Loket (Information Technology - Informatics in Economics)
 
-`2018 – 2021` : Czech University of Life Sciences Prague (Bakalář (Bc.), Informatika)
+`2018 – 2021` : Czech University of Life Sciences Prague ( Bc., Information technologies)
 
-`2021 – present` : Czech University of Life Sciences Prague (Inženýr (Ing.), Informatika)
+`2021 – present` : Czech University of Life Sciences Prague ( Ing., Information technologies)
