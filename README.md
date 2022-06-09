@@ -10,6 +10,8 @@ I like programming, I deal mainly with ***front-end*** (vanilla JS, React, TypeS
 + ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 + ![TypeScipt](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 + ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
++ ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
++ ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 + ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 + ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 + ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
