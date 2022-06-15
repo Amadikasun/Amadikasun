@@ -15,7 +15,6 @@ I like programming, I deal mainly with ***front-end*** (vanilla JS, React, TypeS
 + ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 + ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 + ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
-+ ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 
 ## Education
 
