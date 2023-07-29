@@ -1,7 +1,8 @@
-# Bc. Jana Turoňová
+# Ing. Jana Turoňová
 
 ## Introduce
-I am a student of the Czech University of Life Sciences Prague, major in IT.
+Now I have successfully completed my graduate studies at the CZU in Prague, where I defended my master thesis on Modern JavaScript frameworks.
+I am now looking forward to the opportunity to learn new things and join a work team where I can bring my energy and passion for technological innovation. I approach challenges with enthusiasm and am motivated by the continuous development in the field.
 
 I like programming, I deal mainly with ***front-end*** (Vue, React, TypeScipt, ...). **I'll just learn it if I don't know it.**
 
