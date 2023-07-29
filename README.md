@@ -21,4 +21,4 @@ I like programming, I deal mainly with ***front-end*** (Vue, React, TypeScipt, .
 
 `2018 – 2021` : Czech University of Life Sciences Prague ( Bc., Information technologies)
 
-`2021 – present` : Czech University of Life Sciences Prague ( Ing., Information technologies)
+`2021 – 2023` : Czech University of Life Sciences Prague ( Ing., Information technologies)
