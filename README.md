@@ -14,6 +14,7 @@ I like programming, I deal mainly with ***front-end*** (Vue, React, TypeScipt, .
 + ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 + ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 + ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
++ ![PHP](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=PHP)
 
 ## Education
 
