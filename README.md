@@ -23,6 +23,6 @@ I like programming, I deal mainly with ***front-end*** (Vue, React, TypeScipt, .
 + ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 
 ## Education
-+`2014 – 2018`: Secondary Industrial School Loket (Information Technology - Informatics in Economics)
-+`2018 – 2021` : Czech University of Life Sciences Prague ( Bc., Information technologies)
-+`2021 – 2023` : Czech University of Life Sciences Prague ( Ing., Information technologies)
++ `2014 – 2018`: Secondary Industrial School Loket (Information Technology - Informatics in Economics)
++ `2018 – 2021` : Czech University of Life Sciences Prague ( Bc., Information technologies)
++ `2021 – 2023` : Czech University of Life Sciences Prague ( Ing., Information technologies)
