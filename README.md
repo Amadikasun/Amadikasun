@@ -7,8 +7,8 @@ I am now looking forward to the opportunity to learn new things and join a work 
 I like programming, I deal mainly with ***front-end*** (Vue, React, TypeScipt, ...). **I'll just learn it if I don't know it.**
 
 ## Work experience
-+ `2024 - doposud` - Analytik kybernetické bezpečnosti, Na Hroudě: Analýza rizik IS/ICT, školení uživatelů, audit bezpečnosti a zpracování dokumentace podle norem.
-+ `2024 - doposud` - Dobrovolník, GeeSkys (remote) : Vývoj a údržba frontendu i backendu, práce s PHP, Maria DB, CSS a GitHub.
++ `2024 - doposud` - Analytik kybernetické bezpečnosti, Analýzy, Správa certifikátů, Školení uživatelů, Zpracování dokumentace.
++ `2024 - doposud` - Dobrovolník,  Údržba frontendu i backendu, práce s PHP, Maria DB, CSS a GitHub.
 + `2023 - 2024` - IT Trainee, ČSOB : Time management, testování, Jira, ServiceNow, UML, Power BI, UX a CX, propagace AI konferencí.
 
 
